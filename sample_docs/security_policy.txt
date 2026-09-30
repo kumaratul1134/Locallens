@@ -1,0 +1,1 @@
+Security Incident Policy: Any suspected data breach must be reported to the security desk within 24 hours. Laptops must use full disk encryption. Never share customer PAN such as ABCDE1234F or Aadhaar 1234 5678 9012 over chat. Use the VPN when working remotely.

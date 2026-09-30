@@ -1,0 +1,4 @@
+numpy
+tokenizers
+onnxruntime            # on Snapdragon Windows: pip install onnxruntime-qnn  (instead)
+pypdf
